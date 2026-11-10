@@ -59,4 +59,4 @@ Generated data (git-ignored):
 | `make doctor` shows a cross for Java | Install Java 17 and make sure `java -version` prints 17 |
 | First `get_spark()` is slow or fails | It downloads jars from Maven Central; check your network or proxy |
 | `ModuleNotFoundError: masar` | Run commands through `make` or set `PYTHONPATH=src` |
-| Port 9092 already in use | Stop the other Kafka, or `make kafka-down` |
+| Port 9092 already in use | Stop the other Kafka, or `make kafka-down` |](https://github.com/Hessa-N/masar-lakehouse)
